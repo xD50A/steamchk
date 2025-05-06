@@ -30,7 +30,7 @@ pip install colorama
 Commands:
 
 ```bash
-git clone https://github.com/menkrep1337/XSSCon
+git clone https://github.com/xD50A/steamchk.git
 cd steamchk
 pip install -r requirements.txt
 python3 steamchk.py 
