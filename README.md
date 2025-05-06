@@ -44,7 +44,7 @@ python3 steamchk.py
 
 ## Screenshot
 
-<img src="images/screenshot.png">
+<img src="image/screenshot.png">
 
 ## Note
 * This GitHub repository is intended solely for educational purposes. The author assumes no responsibility for any issues or damages that may arise from its use.
